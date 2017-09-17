@@ -32,4 +32,5 @@ function iLoveTheBeatles(num){
   }
   while (i < num);
 
+  return love; 
 }
